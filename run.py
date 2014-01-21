@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
-
 # Raspberry Car v1.xx
 #https://github.com/tomplays/raspberry-car
 # GPL 2014 - Tom Wersinger 
-
 
 import RPi.GPIO as io
 import time
