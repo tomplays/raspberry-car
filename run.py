@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+
+
 # Raspberry Car v1.xx
-# use GPIO to control 2 DC motors & 2 orange leds
+#https://github.com/tomplays/raspberry-car
 # GPL 2014 - Tom Wersinger 
 
 

@@ -1,4 +1,4 @@
-Raspberry car python driver [![Build Status])
+Raspberry car python driver
 =====================
 
 V1.
@@ -9,10 +9,11 @@ GPIO/python driver for
 
 how to use
 ---------------
-
+<pre>
 $ sudo python run.py
-z and w (back ahead)
+</pre>
 
+z and w (back ahead)
 a and e to turn
 
 h,l for leds fx
