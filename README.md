@@ -1,7 +1,8 @@
 Raspberry car python driver
 =====================
 
-V1.
+V1.0
+
 ---------------
 GPIO/python driver for 
 * 2 dc motor uses a L293d chip
