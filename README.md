@@ -3,6 +3,11 @@ RaspberryPi car python driver
 
 V1.xx
 
+See blog post about project :
+
+http://www.digitalarti.com/fr/blog/artlab/raspberry_pi_wifi_car_prototype_de_tom_wersinger
+
+
 ---------------
 GPIO/python driver for 
 
