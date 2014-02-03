@@ -3,7 +3,7 @@ RaspberryPi car python driver
 
 V1.xx
 
-See blog post about project :
+## See blog post about project :
 
 http://www.digitalarti.com/fr/blog/artlab/raspberry_pi_wifi_car_prototype_de_tom_wersinger
 
@@ -11,7 +11,7 @@ http://www.digitalarti.com/fr/blog/artlab/raspberry_pi_wifi_car_prototype_de_tom
 ---------------
 GPIO/python driver for 
 
-* 2 dc motor uses a L293D chip
+* 2 DC motors (orginal toy)  uses a L293D chip
 * 2 leds
 
 how to use
